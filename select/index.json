@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "終わりなき旅",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-31T11:40:19.933742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/01_終わりなき旅_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_終わりなき旅_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/03_終わりなき旅_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "終わりなき旅 (2017.4.23 YOKOHAMA)",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/04_終わりなき旅_(2017.4.23_YOKOHAMA)_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/05_終わりなき旅_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children 1996-2000",
+      "has_synced": true,
+      "path": "select/06_終わりなき旅_Mr.Children_1996-2000.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/07_終わりなき旅_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終わりなき旅",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_終わりなき旅_Mr.Children.txt"
+    }
+  ]
+}
